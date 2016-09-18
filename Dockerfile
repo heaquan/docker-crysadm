@@ -2,7 +2,7 @@
 # 云监工原作者powergx
 
 FROM tutum/ubuntu:trusty
-MAINTAINER live <lingang@live.cn>
+MAINTAINER lingang <lingang@live.cn>
 
 RUN rm /bin/sh &&  ln -s /bin/bash /bin/sh
 
